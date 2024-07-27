@@ -49,3 +49,7 @@ These findings suggest a complex interplay between host mass, environment, and t
 
 - Changed completeness model to exponential decay
 - MCMC fitting for analysis of SSFR.
+
+## License 
+
+This project is licensed under the MIT License - see the LICENSE file for details.
