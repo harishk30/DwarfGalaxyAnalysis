@@ -1,4 +1,4 @@
-# xSAGA Dwarf Analysis
+# Characterizing the Impact of Local Group-Analogous Environmental Factors on Satellite Galaxy Formation in xSAGA
 
 ## Overview
 
